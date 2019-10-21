@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957845853936",
+    "firebase_url": "https://ibot-4447f.firebaseio.com",
+    "project_id": "ibot-4447f",
+    "storage_bucket": "ibot-4447f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957845853936:android:00d18e6ebc149047c59435",
+        "android_client_info": {
+          "package_name": "com.example.dell.ibot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957845853936-65jsdm8vipk3v2s97v63r723me427cal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.ibot",
+            "certificate_hash": "01433e0f974c9767b2b6fc92dc8b4d93bcf6a0ed"
+          }
+        },
+        {
+          "client_id": "957845853936-101u7kbja6eq75vfdh8vq6pssr4bp1qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwK-fJOQXkecdaT3vl_IJaukH4uUws34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957845853936-101u7kbja6eq75vfdh8vq6pssr4bp1qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
